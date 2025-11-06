@@ -58,6 +58,10 @@ plt.plot(t,s)
 
 ![WhatsApp Image 2025-11-06 at 10 42 14_ee5ae6bd](https://github.com/user-attachments/assets/0b3c917e-4dc8-4792-b9a3-91c840a0972f)
 
+# Calculation
+![WhatsApp Image 2025-11-06 at 18 09 23_9fa5949b](https://github.com/user-attachments/assets/a3b89804-b3ef-4756-b516-a74efa252813)
+
+
 # RESULT:
 
 The message signal, carrier signal, and amplitude modulated (AM) signal are plotted successfully.The AM waveform clearly shows the variation of carrier amplitude according to the message signal amplitude.
